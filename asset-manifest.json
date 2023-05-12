@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CEC/static/css/main.56857191.css",
+    "main.js": "/CEC/static/js/main.f6be7ef0.js",
+    "static/media/CEC-logo-white.png": "/CEC/static/media/CEC-logo-white.91e27888c0ee785502f0.png",
+    "index.html": "/CEC/index.html",
+    "main.56857191.css.map": "/CEC/static/css/main.56857191.css.map",
+    "main.f6be7ef0.js.map": "/CEC/static/js/main.f6be7ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56857191.css",
+    "static/js/main.f6be7ef0.js"
+  ]
+}
